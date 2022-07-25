@@ -1,8 +1,11 @@
 **Assignment 1 **                                                      
 
+
 Registration and Login system using Python, file handling
 
 Stage -- 1 
+
+
 Registration
 
 When the user chooses to Register
@@ -25,10 +28,14 @@ eg:- 123#@gmail.com
               one lowercase character 
 
 Stage 2 
+
+
   Once the username and password are validated, store that data in a file
 
 
 Stage 3
+
+
 Login
  When the user chooses to Login, check whether his/her credentials exist in the file or not based on the user input. 
 If it doesn’t exist then ask them to go for Registration or 
